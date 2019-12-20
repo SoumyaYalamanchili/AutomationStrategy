@@ -26,5 +26,5 @@
 # Continuous Cross Browser Testing
 Using Leading Browser like **Chrome**, **Firefox**, **Edge**, **IE**
 ![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-c9908d79-45d2-4e43-b27b-b75ab6a0dfc4.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
-***
+---
 
