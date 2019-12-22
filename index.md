@@ -9,10 +9,9 @@
 ---
 
 # Continuous deployment
-![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-bdb40cce-c6cc-4bc7-847b-2128b2b83e89.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
+![](https://dev.azure.com/SoumyaYalamanchili/e8a55e58-8a37-4bda-a941-694c28c20b46/_apis/git/repositories/b1627402-588a-4e4a-982e-1e49a1d293e9/Items?path=%2F.attachments%2Fimage-9e0f2cfd-f583-4b60-a5f9-bfe9dbc356ee.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
 ---
-
 
 # Continous Monitoring of Test Results and Error Logs
 ![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-b7ad44bf-d119-4934-ab21-b04b37515db8.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
